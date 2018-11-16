@@ -94,6 +94,10 @@ b.max-bold{
 .section{
     padding: 100px 0 50px; }
 
+.section img{
+    width: 50px;
+}
+
 .section .heading{
     margin-bottom: 60px; }
 
@@ -198,6 +202,10 @@ header .downlad-btn:hover{
 /* ---------------------------------
 5. PORFOLIO SECTION
 --------------------------------- */
+
+.portfolio-section .languages{
+    text-align: center; 
+}
 
 .portfolio-section{
     padding-bottom: 0; }
