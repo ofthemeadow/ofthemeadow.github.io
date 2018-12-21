@@ -420,42 +420,19 @@ header .downlad-btn:hover{
 6. PROJECTS SECTION
 --------------------------------- */
 
-/*---projects push down menu---*/
-
-/*.dropdown{
-  position: absolute;
-}
-
-  .push-down{
-    background-color: yellow;
-    height: 60px;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    transform: translateY(-100%);
-  }
-
-  .content{
-    background-color: grey;
-    transition: margin 1s ease;
-    min-height: 300px;
-  }
-
-
-.container.pushed .content{
-   margin-top: 60px;
-}
+/*---PROJECTS CONTENT---*/
 
 .button{
-  text-decoration: none;
-  display: inline-block;
-  padding: 10px 15px;
-  background-color: blue;
-  color: white;
+    color: black;
 }
 
-/*---end projects push down menu---*/
+.card-body{
+    background-color:#515a68; 
+    text-align: center;
+    padding: 5%;
+}
+
+/*---PROJECTS CONTENT---*/
 
 .projectsContainer{
     text-align: center; 
