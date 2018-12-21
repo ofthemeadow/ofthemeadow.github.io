@@ -426,6 +426,10 @@ header .downlad-btn:hover{
     color: black;
 }
 
+.accordion{
+    padding-bottom: 33.33px;
+}
+
 .card-body{
     background-color:#515a68; 
     text-align: center;
