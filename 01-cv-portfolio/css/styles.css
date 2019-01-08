@@ -671,6 +671,13 @@ header .downlad-btn:hover{
 12. FOOTER
 --------------------------------- */
 
-.copyright{
-    text-align: center; padding: 30px 0; background: #28023D; }
+.MadeUsing img{
+    width: 4%;
+}
+
+.MadeUsing {
+    text-align: right;
+    margin-bottom: 3%;
+    margin-right: 3%;
+}
 
